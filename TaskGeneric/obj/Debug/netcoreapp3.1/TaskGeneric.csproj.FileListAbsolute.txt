@@ -1,0 +1,28 @@
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.exe
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.deps.json
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.runtimeconfig.json
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.dll
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.pdb
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.AssemblyInfo.cs
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.dll
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.pdb
+C:\Users\ibm\source\repos\TaskGeneric\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.genruntimeconfig.cache
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.csproj.AssemblyReference.cache
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.AssemblyInfoInputs.cache
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.AssemblyInfo.cs
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.csproj.CoreCompileInputs.cache
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.dll
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.pdb
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.exe
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.deps.json
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.runtimeconfig.json
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.runtimeconfig.dev.json
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.dll
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\bin\Debug\netcoreapp3.1\TaskGeneric.pdb
+C:\Users\tu7bxfga8\Desktop\New folder\Generic\TaskGeneric\obj\Debug\netcoreapp3.1\TaskGeneric.genruntimeconfig.cache
